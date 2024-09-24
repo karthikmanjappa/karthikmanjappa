@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikmanjappa&label=Profile%20views&color=0e75b6&style=flat" alt="karthikmanjappa" /> </p>
 
-- 🔭 I’m currently working on [Recycled Energy Saved In Singapore](https://github.com/karthikmanjappa/Recycled_energy_singapore)
+- 🔭 I’m currently working on [Metal Cooating Image Analysis]
 
 - 🌱 I’m currently learning **Exploratory Data analysis, Deep learning, Machine learning,MySQL,PowerBi**
 
