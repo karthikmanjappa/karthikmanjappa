@@ -44,9 +44,8 @@ A Django-based RAG (Retrieval-Augmented Generation) chatbot with multilingual su
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Backend & APIs**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![DjangoREST](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,7 +88,7 @@ A Django-based RAG (Retrieval-Augmented Generation) chatbot with multilingual su
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karthikmanjappa&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Karthikmanjappa&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 <p align="center"><i>⚡ Turning ideas into real-world software and AI-powered applications</i></p>
