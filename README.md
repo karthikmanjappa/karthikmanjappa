@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Django Backend Development, REST APIs & real-world product applications<br><br>👯 I’m looking to collaborate on Python, Django, AI/ML & Generative AI projects<br><br>🤝 I’m looking for help with Advanced AI, RAG & scalable cloud-based applications<br><br>🌱 I’m currently learning Advanced Django, Generative AI, RAG & Cloud Technologies<br><br>💬 Ask me about Python, Django, REST APIs, SQL, AI/ML & Computer Vision<br><br>⚡ Fun fact: I enjoy turning ideas into real-world software and AI-powered applications 🚀
+ I’m currently working on Django Backend Development, REST APIs & real-world product applications<br><br>👯 I’m looking to collaborate on Python, Django, AI/ML & Generative AI projects<br><br>🤝 I’m looking for help with Advanced AI, RAG & scalable cloud-based applications<br><br>🌱 I’m currently learning Advanced Django, Generative AI, RAG & Cloud Technologies<br><br>💬 Ask me about Python, Django, REST APIs, SQL, AI/ML & Computer Vision<br><br>⚡ Fun fact: I enjoy turning ideas into real-world software and AI-powered applications 🚀
 
 
 ## 🌐 Socials:
