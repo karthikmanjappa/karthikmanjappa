@@ -27,13 +27,20 @@ I'm an entry-level Software Developer building backend systems and AI-powered ap
 
 ### 🛠️ Featured Projects
 
+### 🛠️ Featured Projects
+
 **Pawdli — Pet Services Platform**
 A production pet services web application with a Django REST Framework backend and an AdminLTE-based admin panel, covering modules for pet therapy management, inventory, GRN (Goods Received Notes), consultation pricing, and medicine management.
 
 **AI Study Assistant**
 A Django-based RAG (Retrieval-Augmented Generation) chatbot with multilingual support for Indian languages, built on the Google Gemini SDK with an OpenRouter fallback, featuring a rich frontend with Firebase authentication, chat history, voice input, and file uploads.
 
----
+**Geospatial Retail Expansion Platform**
+A full-stack retail site selection platform built with React, TypeScript, Django, and MySQL that analyzes geospatial data, demographics, competitor locations, and customer demand to identify optimal retail expansion sites through interactive maps, analytics dashboards, and location scoring.
+
+**Lumina Post-Discharge Recovery Monitor**
+An AI-powered healthcare monitoring platform that enables post-discharge patient recovery tracking using React, TypeScript, Node.js, and SQLite. The system monitors patient health metrics, medication adherence, symptom progression, and recovery trends while providing real-time dashboards, alerts, and analytics to support clinicians and improve patient outcomes.
+
 
 ### 💻 Tech Stack
 
